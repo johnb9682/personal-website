@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "productId": "95200b30-1c40-11e8-ad58-c10fae87e890",
+      "productName": "Test_Product",
+      "imagePath": "//stores/5d605c30-1b06-11e8-ba8d-c1adf40cc6ae/products/bee24297-b59b-496c-9eb9-c72bc6dcceb7",
+      "sellingPriceWithTax": 1500,
+      "sellingPriceWithoutTax": 1500,
+      "categoryBreadcrumbs": ["Men > Shirts", "Men > Pants"]
+    }
+  ],
+  "pagination": {
+    "offset": 1,
+    "fetch-size": 100
+  },
+  "conditions": [{
+    "condition-label": "category",
+    "condition-code": "shirts"
+  }]
+}

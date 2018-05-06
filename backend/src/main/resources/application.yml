@@ -1,0 +1,6 @@
+server:
+  servletPath: /*
+  contextPath: /api
+
+logging:
+  config: classpath:logback.xml
